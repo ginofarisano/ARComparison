@@ -1,4 +1,5 @@
-# ARComparison - tesi magistrale
+# Tecniche di tracking markerless per sistemi di manutenzione ed assemblaggio in Realtà Aumentata - tesi magistrale in Informatica
+
 Presto sarà aggiunto anche il codice del progetto
 
 ______________________________________________________
