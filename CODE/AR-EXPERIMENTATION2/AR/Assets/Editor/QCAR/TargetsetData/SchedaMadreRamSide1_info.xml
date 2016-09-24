@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-01-16 15:09:45" name="SchedaMadreRamSide1" targetId="41e80a29d2214f91bebcbf0770ac5e3b" version="2.0" />
+  </TargetSet>
+</QCARInfo>
